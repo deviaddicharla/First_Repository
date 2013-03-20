@@ -61,7 +61,7 @@ public class LoginValidation extends
 
 	
 	 } 
-	public void testAValidUserCanLogIn() {
+	/*public void testAValidUserCanLogIn() {
 		 
 		 Instrumentation instrumentation=getInstrumentation();
 		// Register we are interested in the LoginActivity activiry...
@@ -76,7 +76,7 @@ public class LoginValidation extends
 		// Wait for it to start...
 		 Activity currentActivity=getInstrumentation().waitForMonitorWithTimeout(monitor, 5);
 		assertNotNull(currentActivity);
-		}
+		}*/
 	
 
 		    public final boolean isInternetOn() {

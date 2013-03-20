@@ -72,13 +72,8 @@ public class HomeActivityTest extends
 		 
 	}
 	
-	/*public void testText(){
-	    assertEquals(resourceString,(String)learn.getText());
-	    assertEquals(resourceString,(String)practice.getText());
-	    assertEquals(resourceString,(String)progress.getText());
-	    assertEquals(resourceString,(String)settings.getText());
-	}
-	public void testButton(){
+	
+	/*public void testButton(){
 	     mHomeActivity.runOnUiThread(
 	                new Runnable() {
 	                    public void run() {
@@ -88,9 +83,9 @@ public class HomeActivityTest extends
 	                    }
 	                }
 	            );
-	}
+	}*/
 
-*/
+
 
 	public void testPreconditions() {
 	    assertTrue(learn != null);
